@@ -64,7 +64,7 @@ hr {
     margin-bottom: 20px;
     border: 0;
 }
-/* Navigation */
+/* Navegação */
 #menu {
     padding: 15px;
     transition: all 0.8s;
@@ -181,7 +181,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
     outline: none;
     outline-offset: none;
 }
-/* Header Section */
+/* Seção de cabeçalho */
 .intro {
     display: table;
     width: 100%;
@@ -222,7 +222,7 @@ header .intro-text {
     padding-bottom: 200px;
     text-align: center;
 }
-/* Features Section */
+/* Seção de Recursos */
 #features {
     padding: 100px 0;
     background: #f6f6f6;
@@ -239,7 +239,7 @@ header .intro-text {
     background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
     box-shadow: 10px 10px 10px rgba(0,0,0,.05);
 }
-/* About Section */
+/* Sobre a seção */
 #about {
     padding: 100px 0;
     background: linear-gradient(to right, #dbdbdb 0%, #aaa9a9 100%);
@@ -288,7 +288,7 @@ header .intro-text {
     line-height: 24px;
     margin: 30px 0;
 }
-/* Services Section */
+/* Seção de Serviços */
 #services {
     padding: 100px 0;
     background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
@@ -331,7 +331,7 @@ header .intro-text {
 #services .service-desc {
     margin-bottom: 40px;
 }
-/* Portfolio Section */
+/* Seção Portfolio */
 #portfolio {
     padding: 100px 0;
 }
@@ -376,7 +376,7 @@ header .intro-text {
 .hover-bg:hover .hover-text {
     opacity: 1;
 }
-/* Testimonials Section */
+/* Seção de depoimentos */
 #testimonials {
     padding: 100px 0;
     background: #f6f6f6;
@@ -415,7 +415,7 @@ header .intro-text {
     font-weight: 600;
     color: #666;
 }
-/* Team Section */
+/* Seção de equipe */
 #team {
     padding: 100px 0;
 }
@@ -433,10 +433,10 @@ header .intro-text {
     padding: 10px 0 0 0;
     color: #888;
 }
-/* Contact Section */
+/* Seção de contato */
 #contact {
     padding: 100px 0 60px 0;
-    background: linear-gradient(to right, #66512c 0%, #8a6d3b 100%);
+    background: linear-gradient(to right, #77553f 15%, #77553f 50%);
     color: rgba(255,255,255,.75);
 }
 #contact .section-title {
@@ -533,7 +533,7 @@ label {
     display: block;
 }
 #contact .contact-item i.fa {
-    margin-right: 10px;
+    margin-right: 8px;
 }
 #contact .social {
     border-top: 1px solid rgba(255,255,255,0.15);
@@ -543,7 +543,7 @@ label {
 }
 #contact .social ul li {
     display: inline-block;
-    margin: 0 20px;
+    margin: 0 16px;
 }
 #contact .social i.fa {
     font-size: 22px;
@@ -559,20 +559,20 @@ label {
     color: #608dfd;
     background: #fff;
 }
-/* Footer Section*/
+/* Seção Rodapé*/
 #footer {
-    background: #f6f6f6;
+    background: #825e47;
     padding: 30px 0;
 }
 #footer p {
-    color: #888;
-    font-size: 14px;
+    color: #d9dce0;
+    font-size: 13px;
 }
 #footer a {
-    color: #608dfd;
+    color: #030214;
 }
 #footer a:hover {
-    border-bottom: 2px solid #608dfd;
+    border-bottom: 2px solid #160fa8;
 }
 
 @media (max-width: 768px) {
