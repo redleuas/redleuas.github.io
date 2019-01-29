@@ -435,7 +435,7 @@ header .intro-text {
 }
 /* Seção de contato */
 #contact {
-    padding: 100px 0 60px 0;
+    padding: 25px 0 25px 0;
     background: linear-gradient(to right, #77553f 15%, #77553f 50%);
     color: rgba(255,255,255,.75);
 }
@@ -561,18 +561,18 @@ label {
 }
 /* Seção Rodapé*/
 #footer {
-    background: #825e47;
+    background: #f9fafc;
     padding: 30px 0;
 }
 #footer p {
-    color: #d9dce0;
+    color: #061a9b;
     font-size: 13px;
 }
 #footer a {
     color: #030214;
 }
 #footer a:hover {
-    border-bottom: 2px solid #160fa8;
+    border-bottom: 2px solid #061a9b;
 }
 
 @media (max-width: 768px) {
