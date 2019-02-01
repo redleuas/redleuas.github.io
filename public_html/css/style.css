@@ -334,7 +334,7 @@ header .intro-text {
 /* Seção Portfolio */
 
 .portfolio-item {
-    margin: 0px -15px 0 -14px;
+    margin: 1px -15px 0 -14px;
     padding: 0;
 }
 .portfolio-item .hover-bg {
