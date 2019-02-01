@@ -332,11 +332,9 @@ header .intro-text {
     margin-bottom: 40px;
 }
 /* Seção Portfolio */
-#portfolio {
-    padding: 100px 0;
-}
+
 .portfolio-item {
-    margin: 1px -15px 0 -14px;
+    margin: 0px -15px 0 -14px;
     padding: 0;
 }
 .portfolio-item .hover-bg {
